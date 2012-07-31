@@ -46,6 +46,7 @@ Length: 5-7 minutes
 + why I wanted to work here
 + what division of NCAR I'm under
 + who's my supervisor
++ Acronym Enthusiast
 
 
 #### Part II
@@ -77,6 +78,8 @@ Length: 13-15 minutes
 	- google
 + toughest areas to deal with
 + what could have been done better
+
++ THANK PEOPLE
 
 #### Questions
 
