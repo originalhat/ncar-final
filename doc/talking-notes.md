@@ -16,6 +16,7 @@ Length: 5-7 minutes
 #### Introduction
 
 + didn't understand what a .bashrc was
++ vaguely knew how to push and pull items with Git
 + worked primarily with Java in school
 
 #### NCAR Background
