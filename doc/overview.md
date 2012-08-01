@@ -38,16 +38,14 @@ Length: 5-7 minutes
 	- major(s)
 + previous experiences?
 	- programming 
+		+ previous use?
 	- scientific studies
-	- etc...
 
 #### NCAR Background
 
 + why I wanted to work here
 + what division of NCAR I'm under
 + who's my supervisor
-+ Acronym Enthusiast
-
 
 #### Part II
 
@@ -57,13 +55,32 @@ Length: 13-15 minutes
 
 + technologies used
 	- ruby
-	- rails
-	- nagios
 	- github
+		- issue tracking, branch workflow
+	- **nagios**
+		+ overview w/ pics
+	- sublime 2.0 / textmate
+	- vi
+	- bash
+	- mysql
+	- rails
+		+ active record
+	- IRC
++ push for CLEAN code
 
 ##### The Problem
 
++ incoming file streams
+	- products / services
+	- huge file base
++ knowing when problems exist
+
 ##### The Solution
+
++ how we approached the problem
+	- dealing with streams as "products"
++ rake tasks for dealing with datasets
+	- load / generate / deploy / revert / forward
 
 ##### The Result
 
@@ -73,13 +90,24 @@ Length: 13-15 minutes
 ##### Retrospective
 
 + resources
-	- erik
-	- stack overflow
 	- google
+	- stack overflow
+	- erik
 + toughest areas to deal with
+	+ file filtering
+	+ dealing with time
+	+ massive file structures / systems
+	+ keeping
 + what could have been done better
+	+ hindsight is 20/20
+	+ code organization
+	+ slow down and savor the details
 
 + THANK PEOPLE
+	+ ej / cds
+	+ nick potts / chris burghart
+	+ everyone who helped me get paid / set up apartment 
+	+ roomates
 
 #### Questions
 
