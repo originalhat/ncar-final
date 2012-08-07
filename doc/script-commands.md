@@ -78,7 +78,7 @@ lets look at a real product for this.
 
     File Location: /net/20120703/research.Al_LMA.201207031212.10minute_36kft.png
 
-that took a long time! That's a problem. Nagios times out it's checks at around 10 seconds.
+that took a long time! That's a problem. Nagios times out its checks at around 10 seconds.
 
 lets try the "many flags" feature.
 
@@ -91,11 +91,11 @@ lets try the "many flags" feature.
 
 whoah nice, that's quick! much quicker in fact, depending on the age of the file and the format of included timestamps, it can be several times faster.
 
-"many files" has it's downsides though, which is why we prefer to avoid "many files" on a default basis.
+"many files" has its downsides though, which is why we prefer to avoid "many files" on a default basis.
 
 ## Rake Tasks
 
-another large component of this program is it's ability to easily generate and move configuration files into place.
+another large component of this program is its ability to easily generate and move configuration files into place.
 
 ### Loading Data / Zith9 DB Interation
 
