@@ -159,7 +159,7 @@
 
 ### slide 17 - "Retrospective"
 
-+ TODO
++ wing it son
 
 ### slide 18 - "Development Stats"
 
