@@ -39,7 +39,7 @@ boring...
     $ ./bin/check-file-feed-age -p /usr/local/catalog/catalog-nagios/config.ru
     Status: CRITICAL.
 
-lets see some stats!
+let's see some stats!
 
     $ ./bin/check-file-feed-age -p /usr/local/catalog/catalog-nagios/config.ru -v 3 -l "Look I Made Something"
     Status: CRITICAL.
@@ -69,7 +69,7 @@ configurations can get pretty complex...
 
 what is that "many files" command?
 
-lets look at a real product for this.
+let's look at a real product for this.
 
     $ ./bin/check-file-feed-age -p /net/%DATESTAMP/research.Al_LMA.%DATETIMESTAMP.10minute_36kft.png -v 2
     Status: CRITICAL.
@@ -80,7 +80,7 @@ lets look at a real product for this.
 
 that took a long time! That's a problem. Nagios times out its checks at around 10 seconds.
 
-lets try the "many flags" feature.
+let's try the "many flags" feature.
 
     $ ./bin/check-file-feed-age -p /net/%DATESTAMP/research.Al_LMA.%DATETIMESTAMP.10minute_12kft.png -v 2 -m true -c 45:00:00:00
     Status: WARNING.
