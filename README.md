@@ -1,4 +1,4 @@
 ncar-final
 ==========
 
-final project from my SUPAR internship @ NCAR
+final project from my SUPER internship @ NCAR
